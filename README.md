@@ -1,2 +1,1 @@
-# GITHUB-PORTFOLIO
-Hi, I'm Asher Rizvi!👋
+# Hi, I'm Asher Rizvi!👋
