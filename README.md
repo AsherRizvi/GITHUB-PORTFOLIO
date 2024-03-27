@@ -4,6 +4,55 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Syed Asher Hussain Rizvi - Electronics Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      font-size: 16px;
+      margin-bottom: 10px;
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ul li::before {
+      content: "\2022";
+      font-size: 14px;
+      color: #007bff;
+      display: inline-block;
+      width: 1em;
+      margin-left: -1em;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
   <h1>Syed Asher Hussain Rizvi</h1>
